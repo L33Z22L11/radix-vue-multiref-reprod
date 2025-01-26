@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import Tip from "./components/Tip.vue";
+import MyTip from './components/MyTip.vue'
 </script>
 
 <template>
-    <Tip></Tip>
-    <Tip></Tip>
+    <MyTip></MyTip>
+    <MyTip></MyTip>
 </template>
